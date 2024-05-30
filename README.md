@@ -37,36 +37,39 @@ The objective is to manage the schedule of EURO 2024 for the 24 participating te
   - **Final:** Sunday, July 14 at 9 PM at Olympiastadion.
 ### Pots and Teams
 #### Pot 1:
-Germany
-Portugal
-France
-Spain
-Belgium
-England
+Germany, 
+Portugal, 
+France, 
+Spain, 
+Belgium, 
+England. 
+
 #### Pot 2:
 
-Hungary
-Turkey
-Romania
-Denmark
-Albania
+Hungary, 
+Turkey, 
+Romania, 
+Denmark, 
+Albania, 
 Austria
+
 #### Pot 3:
 
-Netherlands
-Scotland
-Croatia
-Slovenia
-Slovakia
-Czech Republic
+Netherlands, 
+Scotland, 
+Croatia, 
+Slovenia, 
+Slovakia, 
+Czech Republic.
+
 #### Pot 4:
 
-Italy
-Serbia
-Switzerland
-Poland
-Ukraine
-Georgia
+Italy, 
+Serbia,
+Switzerland, 
+Poland, 
+Ukraine, 
+Georgia.
 
 ## Implementation
 
