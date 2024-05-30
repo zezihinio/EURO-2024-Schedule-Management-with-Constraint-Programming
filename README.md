@@ -71,6 +71,9 @@ Poland,
 Ukraine, 
 Georgia.
 
+### Stadiums :
+Olympiastadion, RheinEnergieStadion, Signal Iduna Park, Merkur Spiel Arena,Deutsche Bank Park, Volksparkstadion, Allianz Arena, MHPArena, Red Bull Arena, Veltins Arena.
+
 ## Implementation
 
 ### Prerequisites
