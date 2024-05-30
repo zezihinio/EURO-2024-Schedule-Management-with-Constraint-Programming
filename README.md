@@ -35,6 +35,38 @@ The objective is to manage the schedule of EURO 2024 for the 24 participating te
   - **Quarter-Finals:** From Friday, July 5 to Saturday, July 6, with two matches per day at 6 PM and 9 PM.
   - **Semi-Finals:** Tuesday, July 9 and Wednesday, July 10, with one match per day at 9 PM.
   - **Final:** Sunday, July 14 at 9 PM at Olympiastadion.
+### Pots and Teams
+#### Pot 1:
+Germany
+Portugal
+France
+Spain
+Belgium
+England
+#### Pot 2:
+
+Hungary
+Turkey
+Romania
+Denmark
+Albania
+Austria
+#### Pot 3:
+
+Netherlands
+Scotland
+Croatia
+Slovenia
+Slovakia
+Czech Republic
+#### Pot 4:
+
+Italy
+Serbia
+Switzerland
+Poland
+Ukraine
+Georgia
 
 ## Implementation
 
